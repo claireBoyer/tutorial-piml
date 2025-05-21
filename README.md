@@ -3,7 +3,7 @@
 This repository contains the slides and practical Jupyter notebooks from the tutorial *A statistical tour of physics-informed machine learning*, presented at the summer school *Mathematical foundations of data science* at the University of Montreal, Canada.
 For a more user-friendly interface, please visit the tutorial’s dedicated webpage: [https://claireboyer.github.io/tutorial-piml/](https://claireboyer.github.io/tutorial-piml/).
 
-## Repository structure 
+## Repository structure  
 
 * *Lab_student/*: Jupyter notebooks for the hands-on practical sessions.
 
